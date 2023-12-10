@@ -1,6 +1,6 @@
 {
-  "name": "stellar",
-  "displayName": "Stellar",
+  "name": "stellarTheme",
+  "displayName": "Stellar Theme",
   "description": "Dark Stellar theme",
   "version": "1.0.0",
   "publisher": "PuneshBorkar",
@@ -12,13 +12,15 @@
     "url": "https://github.com/punesh12/Stellar-Theme"
   },
   "categories": [
-    "Themes",
-    "dark theme"
+    "Themes"
+  ],
+  "keywords": [
+    "theme", "dark", "stellar"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Stellar",
+        "label": "Stellar Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Stellar-color-theme.json"
       }
